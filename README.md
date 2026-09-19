@@ -24,7 +24,13 @@ The public site and internal tools for my ISP business.
 
 ### Longlife Hospital ([tiamiyu6.github.io/GMC](https://tiamiyu6.github.io/GMC/))
 
-A role-based operations system for a Lagos hospital. Nurses issue patient cards, doctors write prescriptions, pharmacists dispense and manage stock, and admins see finance across the whole facility. Includes a public cost-estimate tool patients use to price out services before a visit, low-stock and expiry alerts, and a full audit trail.
+A role-based operational management system designed for a Lagos hospital.
+The platform enforces strict role-based workflows to streamline facility operations:
+Nurses manage initial intake and issue digital or physical patient identity cards.Doctors conduct consultations and digitally log patient prescriptions.Pharmacists oversee full stock management, verify orders, and handle medicine dispensing.Administrators gain complete financial visibility with a dashboard covering revenue across the entire facility.
+Key Features:
+- Public Cost-Estimate Tool: A customer-facing portal that allows patients to look up and price out services transparently before their visit.
+- Smart Inventory Alerts: An automated warning system that triggers notifications for low-stock items and upcoming medication expiration dates.
+- Comprehensive Audit Trail: A secure, unalterable log tracking every action and system change to ensure total transparency and accountability.
 
 ### EPUSG ([epusg.finestructure.ai](https://epusg.finestructure.ai))
 
